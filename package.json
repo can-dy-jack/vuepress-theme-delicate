@@ -1,0 +1,24 @@
+{
+  "name": "vuepress-theme-delicate",
+  "version": "1.0.0",
+  "description": "a delicate theme for vuepress.",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [
+    "delicate",
+    "theme",
+    "vuepress",
+    "vue",
+    "vue3"
+  ],
+  "author": "kart jim",
+  "license": "MIT",
+  "dependencies": {
+    "@vuepress/helper": "2.0.0-rc.33",
+    "@vuepress/plugin-theme-data": "2.0.0-rc.33",
+    "vue": "^3.4.27"
+  },
+  "peerDependencies": {
+    "vuepress": "2.0.0-rc.12"
+  }
+}

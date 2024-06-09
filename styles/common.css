@@ -1,0 +1,13 @@
+body {
+  min-height: 100vh;
+  /* overflow: auto; */
+}
+#app {
+  height: 100%;
+}
+
+
+/* common css */
+.h100 {
+  height: 100%;
+}
